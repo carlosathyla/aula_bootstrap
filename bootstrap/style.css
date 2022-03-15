@@ -1,0 +1,40 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: green;
+}
+
+.quem-somos{
+    background-color: rgb(87, 177, 184);
+    color: white;
+}
+
+.parceiros{
+    background-color: rgb(96, 199, 146);
+}
+
+.servicos{
+    background-color: chocolate;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px
+}
+
+.contact_list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contact_list li a {
+    color: white;
+    
+}
+
+.button{
+    background-color: #828181;
+    border: none;
+}
